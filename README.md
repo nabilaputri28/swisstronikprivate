@@ -12,8 +12,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/dante4rt/swisstronik-private-erc721.git
-    cd swisstronik-private-erc721
+    git clone https://github.com/nabilaputri28/swisstronikprivate.git
+    cd swisstronikprivate
     ```
 
 2. Make the setup script executable and run it:
